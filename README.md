@@ -10,13 +10,12 @@ Propellent is a website built for software startups and small businesses to show
 
 ## Screenshots & Demo
 
-![App Screenshot](https://media.contra.com/image/upload/c_limit,fl_lossy,w_850/v1717248423/nvhftl0fxijufmurzrly.png)
+![App Screenshot](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1738832626/Screenshot_209_hxtvb5.png)
 
-![App Screenshot](https://media.contra.com/image/upload/c_limit,fl_lossy,w_850/v1717297055/r7k1jfrqvk3oyjnxdig2.png)
+![App Screenshot](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1738832622/Screenshot_208_jyes5k.png)
 
-![App Screenshot](https://media.contra.com/image/upload/c_limit,fl_lossy,w_850/v1717297083/mmeeqa6etyz4alffts5o.png)
+![App Screenshot](https://res.cloudinary.com/dlwpgtmcn/image/upload/v1738832641/Screenshot_210_n1apmd.png)
 
-[View Live Demo](https://propellent.vercel.app/)
 
 ## Run Locally
 
