@@ -58,7 +58,6 @@ const Faqs = () => {
           </h3>
         </motion.div>
       </div>
-
       <motion.div
         initial={{ opacity: 0 }}
         whileInView={{
@@ -77,7 +76,6 @@ const Faqs = () => {
       >
         <Accordion />
       </motion.div>
-
       <motion.h4
         initial={{ opacity: 0, y: 5 }}
         whileInView={{
@@ -103,7 +101,6 @@ const Faqs = () => {
         </span>
         .
       </motion.h4>
-
       <motion.div
         initial={{ opacity: 0, y: 30 }}
         whileInView={{
@@ -128,7 +125,7 @@ const Faqs = () => {
             Shoot your startup into a new era, start now.
           </h1>
           <Link
-            to="https://andrea-montini.lemonsqueezy.com"
+            to="https://vikram-portfolio-azure.vercel.app/"
             target="_blank"
             className="w-full md:w-max flex justify-start"
           >
@@ -159,8 +156,12 @@ const Faqs = () => {
           className="rounded-b-[24px] h-[400px] object-cover w-full xl:h-full xl:w-[631px] md:rounded-b-[0px]"
         />
       </motion.div>
-
-      <img src={ogImg} alt="" className="w-full opacity-0 absolute bottom-0 -z-10" />    </section>
+      <img
+        src={ogImg}
+        alt=""
+        className="w-full opacity-0 absolute bottom-0 -z-10"
+      />{" "}
+    </section>
   );
 };
 
